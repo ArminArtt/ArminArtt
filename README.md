@@ -31,9 +31,9 @@ One of my most beloved projects is **Femmie**, a multipurpose Discord bot I crea
 ![My Skills](https://skillicons.dev/icons?i=py,tailwind,react,ts,js,nextjs,bootstrap,html,css,pr,figma,vercel,cloudflare,vscode,robloxstudio&theme=dark)
 
 
-## **Github Stats**  
+## 📊 **Github Stats**  
 
-![Armin's GitHub Stats](https://github-stats-tq8s-ArminArtt.vercel.app/api?username=mvtbh&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArminArtt&theme=radical)
-
-![Top Languages](https://github-stats-tq8s-ArminArt.vercel.app/api/top-langs/?username=ArminArt&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArminArtt&show_icons=true&theme=radical" width="48%" />
+ <img src="https://user-images.githubusercontent.com/66507909/135775594-dd729ae2-22d7-4692-92e9-c174c29991b2.gif" width="30%">
+</p>
